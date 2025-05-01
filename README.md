@@ -6,10 +6,6 @@ Atualmente, estou desenvolvendo um sistema pessoal de alto desempenho com IA, um
 
 ## Linguagens e Ferramentas:
 
-# My Project
-
-This project uses the following technologies:
-
 <div>
     <!-- Core Technologies -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 5px;"/>
