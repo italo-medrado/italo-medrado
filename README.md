@@ -12,18 +12,18 @@ NOTA: As linguagens principais não indicam meu nível de habilidade, é apenas 
 
 ## Minhas Estatísticas no GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=italo-medrado)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=italo-medrado&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens Principais
 
-[![Linguagens Top](https://github-readme-stats.vercel.app/api/top-langs/?username=italo-medrado&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens Top](https://github-readme-stats.vercel.app/api/top-langs/?username=italo-medrado&layout=compact&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linguagens Top](https://github-readme-stats.vercel.app/api/top-langs/?username=italo-medrado)](https://github.com/anuraghazra/github-readme-stats) 
+[![Linguagens Top](https://github-readme-stats.vercel.app/api/top-langs/?username=italo-medrado&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=italo-medrado&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projetos Destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italo-medrado&repo=DemoAvarias)](https://github.com/italo-medrado/DemoAvarias)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italo-medrado&repo=DemoAvarias&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/italo-medrado/DemoAvarias)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italo-medrado&repo=Java-File-Drive)](https://github.com/italo-medrado/Java-File-Drive)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italo-medrado&repo=Java-File-Drive&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/italo-medrado/Java-File-Drive)
