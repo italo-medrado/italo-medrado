@@ -6,6 +6,8 @@ Atualmente, estou desenvolvendo um sistema pessoal de alto desempenho com IA, um
 
 ## Linguagens e Ferramentas:
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+
 ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
 ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
 ![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)
