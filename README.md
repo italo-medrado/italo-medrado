@@ -6,6 +6,16 @@ Atualmente, estou desenvolvendo um sistema pessoal de alto desempenho com IA, um
 
 ## Linguagens e Ferramentas:
 
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)
+![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg)
+![FastAPI](https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg)
+![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)
+![Streamlit](https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg)
+![Seaborn](https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg)
+![Insomnia](https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg)
+
 Python, Java, Flask, Django, FastAPI, Pandas, Streamlit, SeaBorn, Insomnia
 
 NOTA: As linguagens principais não indicam meu nível de habilidade, é apenas uma métrica do GitHub sobre quais linguagens tenho mais código público.
