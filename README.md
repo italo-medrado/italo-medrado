@@ -20,7 +20,6 @@ NOTA: As linguagens principais não indicam meu nível de habilidade, é apenas 
 
 [![Linguagens Top](https://github-readme-stats.vercel.app/api/top-langs/?username=italo-medrado&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=italo-medrado&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projetos Destacados
 
