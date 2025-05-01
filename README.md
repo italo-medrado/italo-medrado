@@ -25,4 +25,5 @@ NOTA: As linguagens principais não indicam meu nível de habilidade, é apenas 
 ## Projetos Destacados
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italo-medrado&repo=DemoAvarias)](https://github.com/italo-medrado/DemoAvarias)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=italo-medrado&repo=Java-File-Drive)](https://github.com/italo-medrado/Java-File-Drive)
