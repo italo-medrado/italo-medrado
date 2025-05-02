@@ -32,9 +32,6 @@ Atualmente, estou desenvolvendo um sistema pessoal de alto desempenho com IA, um
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 5px;"/>
 </div>
 
-
-NOTA: As linguagens principais não indicam meu nível de habilidade, é apenas uma métrica do GitHub sobre quais linguagens tenho mais código público.
-
 ## Minhas Estatísticas no GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=italo-medrado&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
@@ -45,6 +42,7 @@ NOTA: As linguagens principais não indicam meu nível de habilidade, é apenas 
 
 [![Linguagens Top](https://github-readme-stats.vercel.app/api/top-langs/?username=italo-medrado&show_icons=true&theme=tokyonight&hide=issues)](https://github.com/anuraghazra/github-readme-stats) 
 
+NOTA: As linguagens principais não indicam meu nível de habilidade, é apenas uma métrica do GitHub sobre quais linguagens tenho mais código público.
 
 ## Projetos Destacados
 
